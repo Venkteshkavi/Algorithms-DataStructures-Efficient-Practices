@@ -24,6 +24,5 @@ class Solution{
         if(node.right!=null){
             helper(node.right,lvl+1);
         }
-
     }
 }
